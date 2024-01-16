@@ -1,0 +1,181 @@
+Data Science
+    Data science is the process of extracting useful insights and knowledge from data through various techniques, such as:
+        - Statistical analysis
+        - Machine learning
+        - Data visualization
+    In simple terms, data science involves working with data to answer questions, solve problems, and make decisions.
+    Data science is conducted by data scientists, a data scientist typically begins by collecting and cleaning data from various sources, such as:
+        - Databases, 
+        - Spreadsheets
+        - Social media platforms.
+    They then use various tools and techniques to explore the data, identify patterns and trends, and extract insights. These insights can be used to make:
+        - Predictions
+        - Optimize processes
+        - Make better decisions.
+    Data science involves a wide range of skills, including:
+        - Programming
+        - Statistics
+        - Mathematics
+        - Domain expertise (area being studied)
+    It also involves a strong focus on communication, as data scientists need to be able to effectively communicate their findings to a wide range of stakeholders, including technical and non-technical audiences.
+    Overall, data science is a rapidly growing field that is transforming many industries, including finance, healthcare, and marketing. It offers exciting opportunities for those interested in working with data to solve complex problems and make a real impact on society.
+
+APPLICATIONS OF DATA SCIENCE
+
+    Healthcare: 
+        Data science is being used in healthcare to improve patient outcomes, optimize treatments, and reduce costs.
+        For example, it is being used to analyze medical records and identify patterns that can help predict and prevent future diseases
+        based on records of all patients.
+    Finance:
+        Data science is used in finance to analyze market trends, develop predictive models, and manage risk. 
+        For example, it is used to identify patterns in financial data that can help investors make better decisions.
+    Marketing:
+        Data science is used in marketing to develop targeted advertising campaigns, analyze customer behavior, and optimize pricing 
+        strategies. For example, it is used to analyze customer data to identify the most effective marketing channels.
+    Manufacturing:
+        Data science is used in manufacturing to improve efficiency, reduce waste, and optimize production processes. 
+        For example, it is used to analyze production data to identify bottlenecks and optimize workflows.
+    Transport:
+        Data science is used in transportation to optimize routes, improve safety, and reduce emissions. 
+        For example, it is used to analyze traffic patterns to develop more efficient routes for public transportation.
+    Education:
+        Data science is used in education to improve student outcomes, identify at-risk students, and optimize curriculum. 
+        For example, it is used to analyze student data to identify areas where students may need additional support.
+    Sports:
+        Data science is used in sports to improve performance, develop predictive models, and optimize training. 
+        For example, it is used to analyze player data to identify areas where athletes can improve their performance. It can also be used to predit winners of future fixtures
+
+Data Science Methodology
+    Data science methodology refers to the general process or framework that data scientists follow when working on a data science project. 
+    The methodology typically consists of the following steps:
+
+    Problem definition:
+        The first step in any data science project is to clearly define the problem you are trying to solve. This includes
+         understanding the business objectives, defining the research question, and identifying the relevant data sources.
+    Data collection:
+        Once the problem has been defined, the next step is to collect the relevant data. This may involve gathering data from 
+        various sources, such as databases, APIs, or web scraping.
+    Data cleaning and Pre-processing:
+        After the data has been collected, it needs to be cleaned and preprocessed to ensure that it is accurate, complete, and
+         ready for analysis. This includes removing duplicates, dealing with missing values, and transforming the data into a 
+         suitable format for analysis.
+    Exploratory data analysis:
+        Once the data has been cleaned and preprocessed, the next step is to explore the data to gain a better understanding of its
+         characteristics and identify any patterns or relationships.
+    Feature Engineering:
+        Feature engineering involves selecting and transforming the most relevant features (or variables) from the data to build a
+         model. This may involve combining features, creating new ones, or removing irrelevant ones.
+    Model Selection and Training:
+        Once the features have been engineered, the next step is to select a suitable machine learning algorithm and train a model
+         on the data. This involves selecting an appropriate evaluation metric, tuning hyperparameters, and testing the model's performance.
+    Deployment:
+        Once the model has been evaluated and deemed satisfactory, it can be deployed in a production environment. This may involve 
+        integrating the model into a larger software system or developing a standalone application.
+    Monitoring and Maintenance:
+        Finally, the model needs to be monitored and maintained over time to ensure that it continues to perform well and remains up-to-date 
+        with changing data and business needs.
+    These steps are not necessarily sequential and may be iterative, with data scientists going back and forth between different stages as
+     needed. The goal of the data science methodology is to provide a structured approach to solving data-related problems, while allowing 
+     for flexibility and adaptation to the specific needs of each project.
+
+FORMS OF DATA(Types of Data)
+    Data can take many different forms, but they can generally be classified into two broad categories: structured and unstructured data.
+    Structured Data:
+        Structured data is organized into a specific format and can be easily stored and analyzed using traditional database management systems. Examples of structured data include data in tables or spreadsheets, such as sales data, customer information, or financial statements.
+    Unstructured Data:
+        Unstructured data is not organized into a specific format and cannot be easily analyzed using traditional database management systems. Examples of unstructured data include text data, images, audio, and video files. Unstructured data can also include data from social media platforms, such as tweets or comments, that are not organized in a specific format.
+    There is also a third category of data known as semi-structured data:
+        Semi-structured data falls somewhere between structured and unstructured data, and is characterized by having some organizational structure, but also containing unstructured elements. Examples of semi-structured data include XML files or JSON data.
+    Additionally, data can be classified based on their source, such as internal data (data generated from within an organization), external data (data acquired from outside an organization), and public data (data available to the public).
+    It is important to note that data can be further classified into several other types and categories, depending on the nature of the data and the specific needs of the analysis.
+
+Learning to do data science with python
+    Python is a popular programming language for data science due to its simplicity, readability, and versatility. Here are some of the main libraries and tools in Python that are commonly used in data science:
+        Jupyter Notebook:
+            It is an interactive computing environment that allows users to create and share documents that contain live code, equations, visualizations, and narrative text. It is commonly used in data science for exploratory analysis and sharing code and results.
+        Pandas:
+            It is a library that provides data structures and functions for data manipulation and analysis. It is commonly used for tasks such as data cleaning, preparation, and exploratory analysis.
+        Matplotlib:
+            Matplotlib is a plotting library that provides a wide range of high-quality visualization tools for data analysis. It supports many different types of plots, including line plots, scatter plots, bar plots, and histograms.
+            Autopct is a parameter in tha "matplotlib.pyplot.pie()" function which stands for automatic percent.It is used to format numeric values of the pie chart into the percentage format
+        Seaborn:
+            Seaborn is a library that provides additional visualization tools built on top of Matplotlib. It provides more complex visualizations such as heatmaps and violin plots.
+        NumPy:
+            NumPy is a library that provides support for large, multi-dimensional arrays and matrices, as well as a wide range of mathematical functions. NumPy is an essential tool for data analysis and scientific computing in Python.
+        Scipy:
+            Scipy is a Python library that provides a wide range of functions for scientific and technical computing. It is built on top of the NumPy library and provides additional functionality for tasks such as optimization, signal processing, linear algebra, statistics, and more.
+        Stastsmodel:
+            Statsmodels is a Python library for statistical modeling and data analysis. It provides a wide range of statistical tools and methods for working with data, including regression analysis, time series analysis, hypothesis testing, and more.
+        Bokeh:
+            Bokeh is a Python library for creating interactive visualizations for the web. It provides a range of tools for creating data visualizations that can be embedded in web pages, including scatter plots, line plots, bar charts, and more.
+        Scikit-learn:
+            Scikit-learn is a machine learning library that provides a wide range of algorithms for supervised and unsupervised learning tasks. It also includes tools for model selection, feature engineering, and model evaluation.
+        TensorFlow:
+            TensorFlow is a popular library for building and training machine learning models, particularly deep learning models. It provides support for both high-level and low-level APIs, allowing for flexibility in model design.
+        Plotly:
+            Plotly is a Python library for creating interactive data visualizations. It provides a range of tools for creating various types of charts and graphs, including scatter plots, line charts, bar charts, heatmaps, and more. Plotly is designed to work with large and complex datasets, and can handle streaming data as well as static data.
+        NLTK:
+            NLTK stands for Natural Language Toolkit. It is a Python library for working with human language data, such as text and speech. NLTK provides a range of tools and methods for processing and analyzing human language data, including tasks such as tokenization, stemming, lemmatization, part-of-speech tagging, sentiment analysis, and more.
+        Gensim:
+            Gensim is an open-source Python library for topic modeling and natural language processing. It is designed to handle large and complex datasets, particularly in the context of text data, such as documents, articles, and social media posts.
+
+            Gensim provides a range of tools and methods for processing and analyzing text data, including tasks such as document similarity, topic modeling, and text summarization. It uses algorithms such as Latent Semantic Analysis (LSA), Latent Dirichlet Allocation (LDA), and Word2Vec to perform these tasks.
+        
+
+Step 1# Gathering Data
+
+Alice Zhao, a data scientist, did a research and found data by googling ‘basic muffin recipe’ and ‘basic cupcake recipe’.
+
+She found, surprisingly, that muffins, scones and cupcakes just have eight ingredients in them.
+
+At end of the day this is what the data looks like:
+
+Recomender System
+    In this Example we will see how Data Sciece can be used to recommend Items. In this Case we will look at IMDB Website dataset and see how we can recomend Movies to Users based on Ratings.
+
+    Next we merge the two Datasets, To Form one complete Data, We use Item ID to merge. After the Merge you will Get Complete Movie dataset with user_id, item_id, ratings, timestamp and the Title, Basically, this data was combined.
+    Step 1:
+
+Read The Movie Ratings Data, In this Data Each movie is Given an item Id, User ID(User who viewed), and the Rating between 1 - 5.
+
+Below is the data.
+    Step 2
+
+Below we have the Movie Names each Movie name is associated with an Item Id. Below is the Data.
+    Step 3
+
+Next we merge the two Datasets, To Form one complete Data, We use Item ID to merge. After the Merge you will Get Complete Movie dataset with user_id, item_id, ratings, timestamp and the Title, Basically, this data was combined.
+    Step 4
+
+Lets see the average rating by Title ordered in Descending Order (ascending=False). We can see on average the Movie (They Made Me a Criminal (1939) ) Leads the in The List with an average of 5.0.
+    Step 5
+
+Lets now see. How many times was the movie rated, we count the rating per item.
+
+We can see that Star Wars (1977) was rated by 584 Users.
+    Step 6
+
+We now need to combine Step 4 and 5. Step 4 had the average ratings Per Movie Step 5 had the count of ratings Per Movie.
+
+From the data, we see that 101 Dalmatians (1996) had an average rating od 2.9 and was rated by 109 People.
+    Step 7
+
+We create a Pivot table that shows the Movie title, user Id and the ratings. On the columns Its the Movie Names. On the Left side Index is user_id The Values Inside are the ratings
+
+i.e I can see a Movie Named 2001: A Space Odyssey (1968) was rated 4 by user_id = 1 and rated 3 by user_id= 942
+    Step 8
+
+Below we select a Movie From the Pivot, Please Note the Name of the Movie Must be same as it is in the dataset. In the output we see the ratings For this Movie
+    Step 9
+We now Associate the movie with others in the Pivot table.
+
+We check the association between movies and the one that is Correlated Positively with each other in terms of ratings.
+
+We then evaluate how much two users are correlated. Correlation values Close to 1 mean when one user ratings went Up, the user went UP. Very Strong
+
+Correlation Value Close to 0 means when one user ratings went Up, the user Went UP. But Very Weak.
+    Step 10
+
+Now what we dont know is how many People rated the movies so that Even if the correlation is Strong i.e 1. How many people rated the movies. Below we Join similardf
+ variable with number of ratings. We also show all Show similar movies where number of Ratings is more than 100. We limit to 20. We can clearly see that - Godfather: Part II, The (1974) - 
+ is well simila to itself(1), Follwed by Godfather, The (1972)(0.6) then Chinatown (1974) at (0.5) and so on.
